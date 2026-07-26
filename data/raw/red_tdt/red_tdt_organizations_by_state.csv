@@ -1,0 +1,33 @@
+cve_ent,state_name,red_tdt_organizations
+01,Aguascalientes,0
+02,Baja California,1
+03,Baja California Sur,1
+04,Campeche,0
+05,Coahuila,4
+06,Colima,1
+07,Chiapas,10
+08,Chihuahua,7
+09,Ciudad de México,20
+10,Durango,0
+11,Guanajuato,3
+12,Guerrero,2
+13,Hidalgo,4
+14,Jalisco,5
+15,México,3
+16,Michoacán,1
+17,Morelos,0
+18,Nayarit,0
+19,Nuevo León,0
+20,Oaxaca,7
+21,Puebla,2
+22,Querétaro,1
+23,Quintana Roo,0
+24,San Luis Potosí,1
+25,Sinaloa,1
+26,Sonora,0
+27,Tabasco,3
+28,Tamaulipas,0
+29,Tlaxcala,1
+30,Veracruz,4
+31,Yucatán,2
+32,Zacatecas,0
