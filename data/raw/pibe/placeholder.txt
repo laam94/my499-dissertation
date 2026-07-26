@@ -1,0 +1,1 @@
+INEGI Gross State Product (PIBE), base 2018. Control variable. Source: https://www.inegi.org.mx/programas/pibent/2018/
