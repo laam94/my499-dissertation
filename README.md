@@ -1,4 +1,4 @@
-# When grievances become formal claims
+# When grievances become formal claims in non-binding contexts
 
 **Explaining variation in complaint filing before subnational human rights institutions in Mexico, 2019–2024**
 
