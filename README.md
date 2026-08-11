@@ -72,13 +72,18 @@ source("scripts/02_analysis.R")
 # Reproduces all models, tables, and figures
 ```
 
-All results reported in the dissertation can be reproduced directly from the processed panel included in the repository. Rebuilding the dataset from raw sources is therefore optional.
+All results reported in the dissertation can be reproduced directly from the processed panel included in the repository. Update data and scripts with three corrections
+
+- Budget: use exercised budget consistently across all years
+- Accepted complaints: rebuilt from consistent source table
+- NGO density: deduplicate by RFC; fix State of Mexico 2024
+Panel and scripts now fully reproducible from raw sources.
 
 ---
 
 ## Method
 
-The dependent variable is the annual number of complaints filed before each state SHRI. Models are estimated using negative binomial regression with two-way (state and year) fixed effects and a population offset. The preferred specification includes lagged NGO density, political alignment, SHRI staffing, and the intentional homicide rate. Robustness analyses include clustered standard errors, alternative measures of institutional presence, accepted complaints as an alternative outcome, endogeneity diagnostics, and alternative mechanism tests based on institutional educational outreach (see the dissertation appendices).
+Using an original panel dataset covering all 32 Mexican states and their SHRIs between 2019 and 2024, I estimate negative binomial models with state and year fixed effects. 
 
 ---
 
